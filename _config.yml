@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl:
 url: "https://saganritual.github.io/"
-root: ""
+root:
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
