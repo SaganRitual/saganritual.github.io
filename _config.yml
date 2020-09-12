@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://saganritual.github.io/"
+root: ""
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -26,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "SaganRitual/SaganRitualDotCom"
+  github: "SaganRitual/saganritual.github.io"
   gitter:
   google_plus:
   instagram: SaganRitual
