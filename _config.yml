@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl:
 url: "https://saganritual.github.io/"
-root: ""
+root:
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: A Boy And His Mac
-  avatar: assets/img/avatar.png
+  avatar:
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar:
   description: "Swift example code and tutorials" # used by search engines
 
   # Header and footer text
