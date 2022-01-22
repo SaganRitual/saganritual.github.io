@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: c.sagan.ritual@gmail.com
   behance:
   bitbucket:
   dribbble:
@@ -38,9 +38,9 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: @SaganRitual
   wordpress:
-  youtube:
+  youtube: https://www.youtube.com/channel/UCflsl9MQQ28prYd9DdTBL_A
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"

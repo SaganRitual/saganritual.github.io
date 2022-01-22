@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy-policy/
+---
 I won't keep your data. I won't even look at your data. I don't want your data. I can't record your data. I barely mustered the skill to write the app;
 getting your data would just be too much trouble. And anyway, your data won't get me a fancy new Apple M1 Max chip with 10-core CPU, 32-core GPU,
 and 16-core Neural Engine with 64GB unified memory and 2TB SSD storage, which is the main reason I'm writing apps for the App Store in the first place.
